@@ -1,0 +1,7 @@
+<b>Your Heading text</b>
+subheading text<br>
+Enter Password :- <b>SecureP@$$</b>
+Open browser to redirect to a login page
+Enter the following voucher code
+<b><font size='14'>%{number}</font></b>
+<br> some footer text<b>
